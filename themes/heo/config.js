@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: 'Hi,欢迎来到帅帅的小站🎉', url: 'https://ssdxz.site' },
-    { title: '这里收藏了一些优质的资源', url: 'https://ssdxz.site' }
+    { title: 'Hi,欢迎来到帅帅的小站🎉', url: 'https://' },
+    { title: '这里收藏了一些优质的资源', url: 'https://' }
   ],
 
   // 英雄区(首页顶部大卡)
